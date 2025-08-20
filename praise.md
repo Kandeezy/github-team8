@@ -1,1 +1,1 @@
-#Lucky Praise\n\n-  **Favourite DevOps Tool:** Github\n- **Git Command Learned:** \'git clone <repo-url>\'
+Lucky Praise  **Favourite DevOps Tool:** Github **Git Command Learned:** \'git clone <repo-url>\'
